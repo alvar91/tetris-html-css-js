@@ -29,8 +29,8 @@ export default class Controller {
   }
 
   reset() {
-      this.game.reset();
-      this.play();
+    this.game.reset();
+    this.play();
   }
 
   updateView() {
